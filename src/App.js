@@ -8,6 +8,7 @@ import Chat from './components/Chat/Chat';
 
 const App = ()=>(
     <div>
+        <h1>Out of the...</h1>
        <li><Link to="/">Login\Join</Link></li>
        <li><Link to="/chat">Chat</Link></li>
      <Router>
